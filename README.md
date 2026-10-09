@@ -33,16 +33,10 @@
 
 ---
 
-### 📌 Featured Work & Research
-* **[Punctuation-Restoration-Bangla](https://github.com/Obyedullahilmamun/Punctuation-Restoration-Bangla):** Restoring Rhythm: Punctuation Restoration Using Transformer Models for Bangla, A Low-Resource Language (Published with Springer Nature).
-* **Full-Stack & Web Apps:** Explore my pinned repositories below for modern web applications built using Laravel, TypeScript, and modern JavaScript stacks.
-
----
-
 ### 📊 GitHub Stats & Metrics
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Obyedullahilmamun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Obyedullahilmamun's GitHub stats" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obyedullahilmamun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
